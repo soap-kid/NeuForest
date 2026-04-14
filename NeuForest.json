@@ -8,38 +8,38 @@
 		}
 	],
 	"semanticColors": {
-		"HEADER_PRIMARY": [
-            "#ffff00"
+        "HEADER_PRIMARY": [
+            "#dadcde"
         ],
         "HEADER_SECONDARY": [
             "#cccccc"
         ],
         "TEXT_NORMAL": [
-            "#00ff00"
+            "#e5e5e5"
         ],
         "TEXT_MUTED": [
-            "#00ffff"
+            "#c1c1c1"
         ],
         "MOBILE_TEXT_HEADING_PRIMARY": [
-            "#0000ff"
+            "#dadcde"
         ],
         "INTERACTIVE_HOVER": [
-            "#ff0000"
+            "#403e6f"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#00ff00"
+            "#f4f4f4"
         ],
         "INTERACTIVE_MUTED": [
-            "#0000ff"
+            "#53586b"
         ],
         "BACKGROUND_PRIMARY": [
-            "#2d3538"
+            "#111111"
         ],
         "BACKGROUND_SECONDARY": [
-            "#2d3538"
+            "#111111"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#2d3538"
+            "#212121"
         ],
         "BACKGROUND_SURFACE_HIGH": [
             "#141414"
@@ -51,16 +51,16 @@
             "#1e1e1e"
         ],
         "BACKGROUND_ACCENT": [
-            "#e2ead5"
+            "#7e8ecc"
         ],
         "BACKGROUND_FLOATING": [
             "#111111"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#2d3538"
+            "#141414"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#2d3538"
+            "#141414"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#111111"
@@ -122,20 +122,43 @@
         "CARD_PRIMARY_BG": [
             "#212121"
         ]
-	},
-	"rawColors": {
-		"BLACK_500": "#000000"
-	},
-	"background": {
-		"url": "https://raw.githubusercontent.com/myumichi/everforest/main/backgrounds/IMG_20240119_091707.png",
-		"blur": 0.25,
-		"alpha": 0.2,
-		"size": "cover",
-		"position": "center"
-	},
-	"plus": {
+    },
+    "rawColors": {
+        "PRIMARY_500": "#4e67ad",
+        "PRIMARY_100": "#f4f4f4",
+        "PRIMARY_200": "#d0cfef",
+        "PRIMARY_300": "#4e67ad",
+        "PRIMARY_360": "#7e8ecc",
+        "PRIMARY_400": "#7e8ecc",
+        "PRIMARY_600": "#141414",
+        "PRIMARY_630": "#141414",
+        "PRIMARY_660": "#141414",
+        "PRIMARY_700": "#141414",
+        "PRIMARY_800": "#141414",
+        "BLACK_500": "#000000B2",
+        "BRAND_260": "#4e67ad",
+        "BRAND_360": "#4e67ad",
+        "BRAND_500": "#7e8ecc",
+        "BRAND_560": "#7e8ecc",
+        "YELLOW_300": "#4e67ad",
+        "GREEN_600": "#4e67ad",
+        "RED_400": "#7e8ecc",
+        "WHITE_500": "#e0deff",
+        "GREEN_360": "#605d91",
+        "PLUM_23": "#212121",     
+        "PLUM_20": "#111111",
+        "PLUM_18": "#111111",
+        "PLUM_17": "#141414",
+        "PLUM_16": "#4e67ad",
+        "PLUM_13": "#7e8ecc",
+        "PLUM_10": "#c4c4c4",
+        "PLUM_3": "#e5e5e5",
+        "PLUM_9": "#e5e5e5"
+ },
+  "plus": {
     "version": "0",
     "iconpack": "rosiecord-plumpy"
 },
-	"spec": 2
+    "spec": 2
+
 }
