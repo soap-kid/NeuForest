@@ -17,12 +17,12 @@
         "BACKGROUND_SURFACE_HIGH": [
             "#2d3538"
         ],
-		"PANEL_BG": [
-			"#2d3538"
-		],
-		"BACKGROUND_BRAND": [
-			"#4d545c"
-		]
+        "PANEL_BG": [
+            "#2d3538"
+        ],
+        "BACKGROUND_BRAND": [
+            "#4d545c"
+        ]
     },
     "rawColors": {
         "PRIMARY_500": "#a7c080",
@@ -46,8 +46,8 @@
         "RED_400": "#e67e80",
         "WHITE_500": "#a7aaab",
         "GREEN_360": "#83c092",
-		"BLUE_345": "#a7c080",
-		"PLUM_24": "#232a2e",
+        "BLUE_345": "#a7c080",
+        "PLUM_24": "#232a2e",
         "PLUM_23": "#232a2e",
         "PLUM_20": "#2d3538",
         "PLUM_18": "#4c555a",
@@ -55,12 +55,12 @@
         "PLUM_16": "#47555a",
         "PLUM_15": "#374247",
         "PLUM_13": "#a7c080",
-		"PLUM_11": "#232a2e",
+        "PLUM_11": "#232a2e",
         "PLUM_10": "#d1c4aa",
         "PLUM_3": "#e2ead5",
         "PLUM_9": "#e2ead5",
-		"PLUM_6": "#e2ead5",
-		"PLUM_1": "#a7c080"
+        "PLUM_6": "#e2ead5",
+        "PLUM_1": "#a7c080"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/soap-kid/NeuForest/refs/heads/test/everforest%20blur.png",
