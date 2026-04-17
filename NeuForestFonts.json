@@ -3,9 +3,9 @@
   "name": "NeuForest fonts",
   "previewText": "One for one replication of everforest's font changes for NeuForest",
   "main": {
-    "whitney_semibold": "https://github.com/soap-kid/NeuForest/raw/refs/heads/test/SpaceGrotesk-Bold.ttf?raw=1",
-    "whitney_bold": "https://github.com/soap-kid/NeuForest/raw/refs/heads/test/SpaceGrotesk-Bold.ttf?raw=1",
-    "ginto_bold": "https://github.com/soap-kid/NeuForest/raw/refs/heads/test/sraben-grotesk.bold.ttf?raw=1",
-    "whitney_medium": "https://github.com/soap-kid/NeuForest/raw/refs/heads/test/SpaceGrotesk-Medium.ttf?raw=1"
+    "whitney-semibold": "https://github.com/soap-kid/NeuForest/raw/refs/heads/test/SpaceGrotesk-Bold.ttf?raw=1",
+    "whitney-bold": "https://github.com/soap-kid/NeuForest/raw/refs/heads/test/SpaceGrotesk-Bold.ttf?raw=1",
+    "ginto-bold": "https://github.com/soap-kid/NeuForest/raw/refs/heads/test/sraben-grotesk.bold.ttf?raw=1",
+    "whitney-medium": "https://github.com/soap-kid/NeuForest/raw/refs/heads/test/SpaceGrotesk-Medium.ttf?raw=1"
   }
 }
