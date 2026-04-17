@@ -26,7 +26,7 @@
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#232A2E"
         ],
-        "INTERACTIVE_ICON_DEFAULT": [
+        "INTERACTIVE_TEXT_DEFAULT": [
             "#a7c080"
         ]
     },
@@ -37,11 +37,11 @@
         "PRIMARY_300": "#a7c080",
         "PRIMARY_360": "#7e8ecc",
         "PRIMARY_400": "#a7c080",
-        "PRIMARY_600": "#4c555a",
-        "PRIMARY_630": "#4c555a",
-        "PRIMARY_660": "#4c555a",
-        "PRIMARY_700": "#4c555a",
-        "PRIMARY_800": "#4c555a",
+        "PRIMARY_600": "#2d3538",
+        "PRIMARY_630": "#2d3538",
+        "PRIMARY_660": "#2d3538",
+        "PRIMARY_700": "#2d3538",
+        "PRIMARY_800": "#2d3538",
         "BLACK_500": "#000000fa",
         "BRAND_260": "#a7c080",
         "BRAND_360": "#a7c080",
