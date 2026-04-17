@@ -77,5 +77,11 @@
         "size": "cover",
         "position": "center"
     },
+	"fonts": {
+		"ABCGintoNord-ExtraBold": "https://github.com/soap-kid/NeuForest/blob/test/fonts/SpaceGrotesk-SemiBold.ttf?raw=1",
+		"ggsans-Semibold": "https://github.com/soap-kid/NeuForest/blob/test/fonts/SpaceGrotesk-SemiBold.ttf?raw=1",
+		"ggsans-Medium": "https://github.com/soap-kid/NeuForest/blob/test/fonts/SpaceGrotesk-Medium.ttf?raw=1",
+		"ggsans-Bold": "https://github.com/soap-kid/NeuForest/blob/test/fonts/SpaceGrotesk-Bold.ttf?raw=1"
+	},
     "spec": 2
 }
