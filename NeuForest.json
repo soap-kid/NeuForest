@@ -28,7 +28,10 @@
         ],
         "INTERACTIVE_TEXT_DEFAULT": [
             "#a7c080"
-        ]
+        ],
+		"EMBED_BACKGROUND": [
+			"#374247"
+		]
     },
     "rawColors": {
         "PRIMARY_500": "#a7c080",
