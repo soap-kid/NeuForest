@@ -26,6 +26,9 @@
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#232A2E"
         ],
+		"INPUT_BACKGROUND_DEFAULT": [
+			"#232A2E"
+		],
         "INTERACTIVE_TEXT_DEFAULT": [
             "#a7c080"
         ],
@@ -61,6 +64,7 @@
 		"BLUE_345": "#a7c080",
 		"PLUM_24": "#232a2e",
         "PLUM_23": "#232a2e",
+		"PLUM_22": "#2d3538",
         "PLUM_20": "#2d3538",
 		"PLUM_19": "#232a2e",
         "PLUM_18": "#374247",
